@@ -1,0 +1,27 @@
+Description of the solution and files
+
+
+Course_work_machine_learning_primary-analys.ipynb 
+Первичный анализ информации - 
+гистограмы распределения по столбцам,
+процент нулевых значений, нормализация данных.
+
+Course_work_machine_learning_Hierarchical.ipynb
+кластеризация иерархическими деревьями, 
+с последующим отображениме получивщейся информации методом главных компонент (PCA)
+и с вычислением метрик: силуэт(Silhouette Coefficient ) и Davies-Bouldin index 
+
+Course_work_machine_learning_K_means.ipynb
+кластеризация методом k-means
+с последующим отображениме получивщейся информации методом главных компонент (PCA)
+и с вычислением метрик: силуэт(Silhouette Coefficient ) и Davies-Bouldin index 
+
+Course_work_machine_learning_SOM.ipynb
+кластеризация с помощью self organizing map (самоорганизующая карта Кохонена)
+с последующим отображениме получивщейся информации методом главных компонент (PCA)
+и с вычислением метрик: силуэт(Silhouette Coefficient ) и Davies-Bouldin index 
+
+Course_work_machine_learning_EM.ipynb
+кластеризация Gaussian Mixture (EM - методом)
+с последующим отображениме получивщейся информации методом главных компонент (PCA)
+и с вычислением метрик: силуэт(Silhouette Coefficient ) и Davies-Bouldin index 
