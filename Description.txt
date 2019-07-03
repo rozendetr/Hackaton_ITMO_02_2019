@@ -1,5 +1,7 @@
 Description of the solution and files
 
+Gender_set.csv -  исходный датасет
+Gender_set_normal.csv - нормализованный датасет
 
 Course_work_machine_learning_primary-analys.ipynb 
 Первичный анализ информации - 
